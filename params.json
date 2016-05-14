@@ -1,0 +1,6 @@
+{
+  "name": "Adblock for China",
+  "tagline": "来自魔法政府的ADBlock调和计划 - 适用于魔法部麻瓜办公室计算机系统",
+  "body": "<link rel=\"stylesheet\" href=\"https://www.chromegae.com/css/cayman.css\">\r\n<link rel=\"stylesheet\" href=\"https://www.chromegae.com/css/reveal.css\">\r\n### ADBlock or ADBlock Plus 无法屏蔽广告问题\r\nBaidu.com的广告css会随时变动，ADBlock或ADBlock Plus目前还没有解决方案（没时间解决）\r\n### 可供使用的方案\r\n广告终结者 - 本地化了ADBlock，可以应对如上情况\r\n下载 [点击这里](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl)\r\n### 规则列表/自定义规则\r\n[更新中]个人优化/本地化ADblock\r\n#### 源 - Sources\r\n**ChinaList+EasyList(修正)** URL：http://sub.adtchrome.com/adt-chinalist-easylist.txt\r\n\r\n**过滤增强脚本** URL：http://sub.adtchrome.com/videoadjs.txt\r\n\r\n**HTML5视频脚本最近更新于** URL：http://sub.adtchrome.com/html5player.txt\r\n#### 本地化\r\nUploading...\r\n#### 屏蔽 hao123.com\r\n```\r\nwww.hao123.com###__elm_0_2\r\nwww.hao123.com##.g-bigrender\r\nwww.hao123.com##.g-sbg2\r\nwww.hao123.com##.g-wrap\r\nwww.hao123.com##.layout-container-inner\r\nwww.hao123.com##.new-footercolor\r\nwww.hao123.com##.s-sbg2\r\nwww.hao123.com/*\r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
